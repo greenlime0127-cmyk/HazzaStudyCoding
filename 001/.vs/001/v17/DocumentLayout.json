@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Administrator\\Desktop\\HazzaStudyCoding\\001\\",
+  "WorkspaceRootPath": "C:\\Users\\Administrator\\Documents\\GitHub\\HazzaStudyCoding\\001\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{4C2A5564-5318-46B9-ACFB-0C9ABE10D631}|001\\001.vcxproj|C:\\Users\\Administrator\\Desktop\\HazzaStudyCoding\\001\\001\\001.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{4C2A5564-5318-46B9-ACFB-0C9ABE10D631}|001\\001.vcxproj|C:\\Users\\Administrator\\Documents\\GitHub\\HazzaStudyCoding\\001\\001\\001.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{4C2A5564-5318-46B9-ACFB-0C9ABE10D631}|001\\001.vcxproj|solutionrelative:001\\001.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
@@ -20,11 +20,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "001.cpp",
-              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\HazzaStudyCoding\\001\\001\\001.cpp",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\GitHub\\HazzaStudyCoding\\001\\001\\001.cpp",
               "RelativeDocumentMoniker": "001\\001.cpp",
-              "ToolTip": "C:\\Users\\Administrator\\Desktop\\HazzaStudyCoding\\001\\001\\001.cpp",
+              "ToolTip": "C:\\Users\\Administrator\\Documents\\GitHub\\HazzaStudyCoding\\001\\001\\001.cpp",
               "RelativeToolTip": "001\\001.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2026-05-14T09:03:10.035Z",
               "EditorCaption": ""

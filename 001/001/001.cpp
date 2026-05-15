@@ -12,5 +12,5 @@ int main(void) /* 프로그램 시작 */
 	age = age + 1;				// 변수 age에 저장된 값을 1 증가시킨다.
 	printf("age:%d year:%d\n", age, year); // 변수 age와 year에 저장된 값을 출력
 
-	return 0; /* 프로그램을 종료한다. */
+	return 0; /* 프로그램을 종료 */
 }
